@@ -1,0 +1,27 @@
+# Dataset: CHASE_DB1 retinal vessel reference dataset
+# Split: test
+# Split protocol: project-specific subject-level 10/4 split.
+# Important: CHASE_DB1 does not provide an official train/test split.
+# Both eyes from the same subject are kept in the same split to prevent
+# subject leakage. Subjects were sorted, shuffled with Python
+# random.Random(2026), and the first 4 shuffled subjects were assigned to test.
+# Random seed: 2026
+# Test subjects: 01, 03, 10, 11
+# Official Kingston University dataset page:
+# https://researchinnovation.kingston.ac.uk/en/datasets/chasedb1-retinal-vessel-reference-dataset-4/
+# Official archive link:
+# https://researchinnovation.kingston.ac.uk/files/40659508/CHASEDB1.zip
+# Licence shown by the official page: Creative Commons Attribution 4.0.
+# Annotation used by this project: first human observer (*_1stHO.png).
+# Expected images: data/CHASE_DB1/test/image/<ID>.jpg
+# Expected masks:  data/CHASE_DB1/test/mask/<ID>.png
+# Source masks have names such as Image_01L_1stHO.png; copy/rename them so the
+# mask stem matches the image stem in the separate mask folder.
+Image_01L
+Image_01R
+Image_03L
+Image_03R
+Image_10L
+Image_10R
+Image_11L
+Image_11R

@@ -1,0 +1,33 @@
+# Dataset: DRIVE (Digital Retinal Images for Vessel Extraction)
+# Split: train
+# Split protocol: official DRIVE split, 20 training images.
+# Official dataset page: https://drive.grand-challenge.org/
+# Official download portal: https://drive.grand-challenge.org/Download/
+# Access note: the Grand Challenge portal may require account registration or
+# challenge access. Follow the dataset terms shown by the official portal.
+# Original image naming: 21_training.tif ... 40_training.tif
+# Manifest naming: normalized image stem only (21 ... 40).
+# Expected images: data/DRIVE/train/image/<ID>.tif
+# Expected masks:  data/DRIVE/train/mask/<ID>.png
+# Annotation: use the corresponding manual vessel annotation supplied with the
+# authorized DRIVE data. Do not redistribute the dataset in this repository.
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40

@@ -1,0 +1,33 @@
+# Dataset: DRIVE (Digital Retinal Images for Vessel Extraction)
+# Split: test
+# Split protocol: official DRIVE split, 20 test images.
+# Official dataset page: https://drive.grand-challenge.org/
+# Official download portal: https://drive.grand-challenge.org/Download/
+# Access note: the Grand Challenge portal may require account registration or
+# challenge access. Follow the dataset terms shown by the official portal.
+# Original image naming: 01_test.tif ... 20_test.tif
+# Manifest naming: normalized image stem only (01 ... 20).
+# Expected images: data/DRIVE/test/image/<ID>.tif
+# Expected masks:  data/DRIVE/test/mask/<ID>.png
+# Local metric evaluation requires a corresponding authorized vessel annotation
+# for every test image. Do not redistribute the dataset in this repository.
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20

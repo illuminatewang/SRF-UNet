@@ -1,0 +1,26 @@
+# Dataset: STARE (STructured Analysis of the Retina)
+# Split: test
+# Split protocol: project-specific fixed 15/5 image-level split.
+# Important: STARE does not provide an official train/test split.
+# Reproduction procedure: sort the 20 vessel-segmentation image identifiers,
+# shuffle their indices with Python random.Random(2026), and assign the first
+# 5 shuffled indices to test.
+# Random seed: 2026
+# Official project page: https://cecas.clemson.edu/~ahoover/stare/
+# Official vessel-segmentation page:
+# https://cecas.clemson.edu/~ahoover/stare/probing/index.html
+# Official image archive:
+# https://cecas.clemson.edu/~ahoover/stare/probing/stare-images.tar
+# Official Adam Hoover annotation archive used by this project:
+# https://cecas.clemson.edu/~ahoover/stare/probing/labels-ah.tar
+# Alternative Valentina Kouznetsova annotations (not used here):
+# https://cecas.clemson.edu/~ahoover/stare/probing/labels-vk.tar
+# Expected images: data/STARE/test/image/<ID>.ppm
+# Expected masks:  data/STARE/test/mask/<ID>.ppm
+# Source masks have names such as im0001.ah.ppm; copy/rename them so the mask
+# stem matches the image stem in the separate mask folder.
+im0001
+im0002
+im0003
+im0044
+im0236
