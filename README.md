@@ -7,8 +7,7 @@ Segmentation Network Based on Serial Residual Fusion and Bipolar Interaction**.
 College of Software, Henan Normal University, China
 
 Contact:
-[wangziyuan128@163.com](mailto:wangziyuan128@163.com) and
-[342984619@qq.com](mailto:342984619@qq.com)
+[wangziyuan128@163.com](mailto:wangziyuan128@163.com)
 
 ## Overview
 
