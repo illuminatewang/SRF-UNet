@@ -6,9 +6,6 @@ Segmentation Network Based on Serial Residual Fusion and Bipolar Interaction**.
 **Wang ZiYuan** and **Zhang Lei**  
 College of Software, Henan Normal University, China
 
-## Paper
-📄 [View or download the accepted paper (PDF)](<./SRF-UNet A Lightweight Retinal Vessel Segmentation Network Based on Serial Residual Fusion and Bipolar Interaction.pdf>)
-
 Contact:
 [wangziyuan128@163.com](mailto:wangziyuan128@163.com)
 
