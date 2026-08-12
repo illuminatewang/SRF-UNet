@@ -8,7 +8,8 @@ College of Software, Henan Normal University, China
 
 Contact:
 [wangziyuan128@163.com](mailto:wangziyuan128@163.com)
-
+## Paper
+📄 [View or download the accepted paper (PDF)](<./SRF-UNet A Lightweight Retinal Vessel Segmentation Network Based on Serial Residual Fusion and Bipolar Interaction.pdf>)
 ## Overview
 
 SRF-UNet is a compact five-stage encoder-decoder designed for retinal vessel
