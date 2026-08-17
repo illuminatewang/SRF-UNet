@@ -3,7 +3,7 @@
 Official PyTorch implementation of **SRF-UNet: A Lightweight Retinal Vessel
 Segmentation Network Based on Serial Residual Fusion and Bipolar Interaction**.
 
-**Wang ZiYuan** and **Zhang Lei**  
+**Wang ZiYuan**
 College of Software, Henan Normal University, China
 
 Contact:
